@@ -1,0 +1,15 @@
+name: sam2lca_demo
+channels:
+  - conda-forge
+dependencies:
+  - sam2lca
+  - nb_conda
+  - pandas
+  - plotnine
+  - bowtie2
+  - samtools
+  - fastp
+  - bamaligncleaner
+  - ca-certificates
+  - certifi
+  - openssl

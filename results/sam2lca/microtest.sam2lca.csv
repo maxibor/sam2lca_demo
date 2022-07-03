@@ -1,0 +1,8 @@
+TAXID,name,rank,count_taxon,count_descendant,lineage
+543,Enterobacteriaceae,family,1,1,family: Enterobacteriaceae || order: Enterobacterales || class: Gammaproteobacteria || phylum: Proteobacteria || superkingdom: Bacteria
+91347,Enterobacterales,order,0,1,order: Enterobacterales || class: Gammaproteobacteria || phylum: Proteobacteria || superkingdom: Bacteria
+1236,Gammaproteobacteria,class,0,1,class: Gammaproteobacteria || phylum: Proteobacteria || superkingdom: Bacteria
+1224,Proteobacteria,phylum,0,1,phylum: Proteobacteria || superkingdom: Bacteria
+2,Bacteria,superkingdom,0,1,superkingdom: Bacteria
+131567,cellular organisms,no rank,0,1,
+1,root,no rank,0,1,

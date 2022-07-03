@@ -1,0 +1,22 @@
+TAXID,name,rank,count_taxon,count_descendant,lineage
+3398,Magnoliopsida,class,1,86,class: Magnoliopsida || clade: Embryophyta || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+35493,Streptophyta,phylum,0,86,phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+58024,Spermatophyta,clade,0,86,clade: Embryophyta || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+131567,cellular organisms,no rank,0,86,
+2759,Eukaryota,superkingdom,0,86,superkingdom: Eukaryota
+33090,Viridiplantae,kingdom,0,86,kingdom: Viridiplantae || superkingdom: Eukaryota
+1,root,no rank,0,86,
+131221,Streptophytina,subphylum,0,86,subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+3193,Embryophyta,clade,0,86,clade: Embryophyta || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+58023,Tracheophyta,clade,0,86,clade: Embryophyta || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+78536,Euphyllophyta,clade,0,86,clade: Embryophyta || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+1437201,Pentapetalae,clade,1,85,clade: Embryophyta || class: Magnoliopsida || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+91827,Gunneridae,clade,0,85,clade: Embryophyta || class: Magnoliopsida || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+71240,eudicotyledons,clade,0,85,clade: Embryophyta || class: Magnoliopsida || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+1437183,Mesangiospermae,clade,0,85,clade: Embryophyta || class: Magnoliopsida || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+91835,fabids,clade,2,84,clade: Embryophyta || class: Magnoliopsida || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+71275,rosids,clade,0,84,clade: Embryophyta || class: Magnoliopsida || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+3744,Rosales,order,4,82,order: Rosales || clade: Embryophyta || class: Magnoliopsida || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+3481,Cannabaceae,family,29,78,family: Cannabaceae || order: Rosales || clade: Embryophyta || class: Magnoliopsida || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+3483,Cannabis sativa,species,49,49,species: Cannabis sativa || genus: Cannabis || family: Cannabaceae || order: Rosales || clade: Embryophyta || class: Magnoliopsida || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
+3482,Cannabis,genus,0,49,genus: Cannabis || family: Cannabaceae || order: Rosales || clade: Embryophyta || class: Magnoliopsida || subphylum: Streptophytina || phylum: Streptophyta || kingdom: Viridiplantae || superkingdom: Eukaryota
