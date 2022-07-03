@@ -1,6 +1,7 @@
 name: sam2lca_demo
 channels:
   - conda-forge
+  - bioconda
 dependencies:
   - sam2lca
   - nb_conda
